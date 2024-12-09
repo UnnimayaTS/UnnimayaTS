@@ -25,6 +25,7 @@ Database design and optimization
 Krishibhumi Website:
 Developed a platform focusing on Agro Business and Seeds.
 News Portal:
+News Portal:
 Built a news portal covering technology, gadgets, and social media trends.
 Society of Kristu Dasis:
 Developed the official website for the congregation.
