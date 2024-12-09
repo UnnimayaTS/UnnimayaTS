@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on projects related to **web development**, especially those involving PHP and CodeIgniter
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/unnimayats) | [Email](mailto:unnimayats001@gmail.com)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love cats and have a pet named Mittu 🐱
 
 - ## 📂 Projects
 - **Krishibhumi Website**: Developed a platform focusing on Agro Business and Seeds
