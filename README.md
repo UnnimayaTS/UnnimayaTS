@@ -1,4 +1,5 @@
 👋 Hi, I’m Unnimaya T S
+
 About Me:
 I am a passionate Software Developer with 3 years of experience specializing in web development. I love exploring the latest in technology and finding innovative ways to solve complex problems.
 
@@ -6,13 +7,16 @@ I am a passionate Software Developer with 3 years of experience specializing in 
 Coding, debugging, and crafting scalable web solutions
 Learning and implementing the latest tools and technologies
 Staying updated on trends in technology, gadgets, and new-gen development frameworks
+
 🌱 Skills & Tools:
 Languages & Frameworks: PHP, JavaScript, CodeIgniter, HTML, CSS
 Frontend Frameworks: Bootstrap, jQuery
 Others: REST APIs, MySQL, Git (basic)
+
 💼 Current Work:
 Developing robust and user-friendly web applications
 Creating dynamic content for websites
+
 💞️ Collaboration:
 I’m always open to collaborating on web development projects, especially those involving:
 
@@ -43,5 +47,6 @@ Developed the website for the foreign language institute.
 📫 Let's Connect:
 - [LinkedIn](https://linkedin.com/in/unnimayats)  
 - [Email](mailto:unnimayats001@gmail.com)
+  
 🌟 Fun Fact:
 When I'm not coding, I enjoy acting, creating videos, and engaging with the latest in tech trends!
