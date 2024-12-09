@@ -13,7 +13,6 @@ Others: REST APIs, MySQL, Git (basic)
 💼 Current Work:
 Developing robust and user-friendly web applications
 Creating dynamic content for websites
-Mentoring new interns to accelerate their learning curve
 💞️ Collaboration:
 I’m always open to collaborating on web development projects, especially those involving:
 
@@ -22,28 +21,27 @@ Frontend improvements for seamless user experience
 Database design and optimization
 
 🚀 Projects:
-Krishibhumi Website:
-Developed a platform focusing on Agro Business and Seeds.
-News Portal:
-News Portal:
-Built a news portal covering technology, gadgets, and social media trends.
-Society of Kristu Dasis:
-Developed the official website for the congregation.
-St. Joseph's Hospital:
-Built a modern and user-friendly hospital website.
-Fedar Foundation:
-Designed and developed a platform for futuristic education.
-Catechism MDY:
-Created a comprehensive website for catechism activities.
-Fedar International:
-Built the official website for the international branch.
-Sacred Heart Kayyunni:
-Designed a clean and intuitive website for the church.
-Vallombrosan Institute of Foreign Language (VIFL):
-Developed the website for the foreign language institute.
+[**Krishibhumi Website**](http://krishibhumi.com):  
+Developed a platform focusing on Agro Business and Seeds.  
+[**News Portal**](https://kozhicode.com):  
+Built a news portal covering technology, gadgets, and social media trends.  
+[**Society of Kristu Dasis**](https://www.societyofkristudasi.com):  
+Developed the official website for the congregation.  
+[**St. Joseph's Hospital**](https://sjmhospital.org):  
+Built a modern and user-friendly hospital website.  
+[**Fedar Foundation**](https://fedarfoundation.com):  
+Designed and developed a platform for futuristic education.  
+[**Catechism MDY**](https://catechismmdy.in):  
+Created a comprehensive website for catechism activities.  
+[**Fedar International**](https://fedar.in):  
+Built the official website for the international branch.  
+[**Sacred Heart Kayyunni**](https://www.sacredheartkayyunni.com):  
+Designed a clean and intuitive website for the church.  
+[**Vallombrosan Institute of Foreign Language (VIFL)**](https://vifl.org):  
+Developed the website for the foreign language institute. 
 
 📫 Let's Connect:
-LinkedIn
-Email
+- [LinkedIn](https://linkedin.com/in/unnimayats)  
+- [Email](mailto:unnimayats001@gmail.com)
 🌟 Fun Fact:
 When I'm not coding, I enjoy acting, creating videos, and engaging with the latest in tech trends!
