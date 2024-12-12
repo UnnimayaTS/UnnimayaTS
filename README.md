@@ -45,7 +45,7 @@ Designed a clean and intuitive website for the church.
 Developed the website for the foreign language institute. 
 
 📫 Let's Connect:
-- [LinkedIn](https://linkedin.com/in/unnimayats)  
+- [LinkedIn](https://www.linkedin.com/in/unnimaya-t-s/)  
 - [Email](mailto:unnimayats001@gmail.com)
   
 🌟 Fun Fact:
