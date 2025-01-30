@@ -1,7 +1,7 @@
 👋 Hi, I’m Unnimaya T S
 
 About Me:
-I am a passionate Software Developer with 3 years of experience specializing in web development. I love exploring the latest in technology and finding innovative ways to solve complex problems.
+I am a passionate Web Developer with 3 years of experience specializing in web development. I love exploring the latest in technology and finding innovative ways to solve complex problems.
 
 👀 Interests:
 Coding, debugging, and crafting scalable web solutions
